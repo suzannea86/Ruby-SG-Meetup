@@ -1,2 +1,3 @@
-To retrieve all ruby.sg meetups from Meetup.com
+To retrieve all ruby.sg meetups from Meetup.com.
+
 ruby-meetup2 gem used with API key to connect to Meetup API.
